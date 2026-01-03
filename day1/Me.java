@@ -1,3 +1,4 @@
+package day1;
 class Me{
     public static void main(String [] args){
         String name = "pavi";

@@ -1,3 +1,4 @@
+package day1;
 class Area {
     public static void main(String[] args){
         double radius = 10.1;
